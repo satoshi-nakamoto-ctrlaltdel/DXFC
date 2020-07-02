@@ -1,2 +1,3 @@
 # DXFC
 Central bank digital currency proposal
+The Times 04/Jul/2020 Markets backlash for second wave from COVID-19...
